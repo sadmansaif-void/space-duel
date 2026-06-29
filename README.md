@@ -43,7 +43,6 @@ pip install pygame
 
 ## 📁 Assets
 
-Create an `Assets/` folder beside `main.py` and place:
 
 - spaceship_yellow.png
 - spaceship_red.png
